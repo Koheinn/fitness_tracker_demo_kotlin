@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#0829E0</color>
+    <color name="LightGrey">#DCDCDC</color>
+    <color name="Grey_Light">#F0F0F0</color>
+    <color name="Grey">#888888</color>
+    <color name="primary_color">#71FFD0</color>
+    <color name="secondary_color">#5762b3</color>
+    <color name="google_blue">#4C8BF5</color>
+    <color name="grey_default">#999c9a</color>
+</resources>
